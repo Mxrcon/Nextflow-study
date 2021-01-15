@@ -1,4 +1,5 @@
-#nextflow log
+#Nextflow related stuff
+work/
 .nextflow.log*
 .nextflow/
 
