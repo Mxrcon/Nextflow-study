@@ -132,3 +132,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# seqera data
+data/
+docs/
+dsl2/
+exercises/
+hands-on/
+parsing/
+setup/
